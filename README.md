@@ -6,7 +6,7 @@
 * Adapter
 * Model
 
-
+#### Libraries
 <pre><code> 
 dependencies {
     ....
